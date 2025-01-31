@@ -78,3 +78,8 @@ class _HomeState extends State<Home> {
             ]),
       );
 }
+void addfuntction(){
+  int x=0;
+  int y=1;
+ int i= x+y;
+}
