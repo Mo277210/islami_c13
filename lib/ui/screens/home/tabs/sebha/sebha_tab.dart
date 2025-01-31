@@ -65,7 +65,7 @@ List<String> list=['سبحان الله','الحمد لله ', 'الله اكب�
     anagle+=5;
     count++;
     setState(() {
-      if(count==33){
+      if(count==34){
         count=0;
         index++;
 
